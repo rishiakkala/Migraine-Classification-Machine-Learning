@@ -8,7 +8,7 @@ The study employs state-of-the-art machine learning algorithms, including both t
 - **Random Forest (RF)**
 - **k-Nearest Neighbors (KNN)**
 - **Decision Trees (DT)**
-- **Deep Neural Networks (DNN)** <br/>
+- **Deep Neural Networks (DNN)** <br/><br/>
 These models were tested on migraine-related data to identify patterns in migraine episodes. Among them, the Deep Neural Network (DNN) model showed the highest accuracy due to its ability to capture complex relationships in the dataset.
 ### 2. **Ensemble Models**:
 - **Bagging (Bootstrap Aggregating)**
