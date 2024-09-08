@@ -33,6 +33,6 @@ The use of these techniques underscores the importance of integrating machine le
 Further research could include:
 - Integration of **longitudinal data** and **unstructured data sources** (e.g., patient notes, imaging data) to further improve model reliability.
 - Development of more **personalized treatment plans** based on patient-specific data and triggers, potentially improving patient outcomes.
-### Conclusion
+## Conclusion
 This project demonstrates the potential of advanced machine learning techniques, particularly ensemble and boosting models, in enhancing migraine classification accuracy.
 The findings highlight the value of precise and reliable predictive models for clinical applications, offering a promising path toward improved patient care and treatment outcomes.
